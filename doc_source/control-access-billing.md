@@ -37,7 +37,7 @@ When you activate IAM user access to the Billing and Cost Management console, yo
 
 1. Select the ** Activate IAM Access** check box to activate access to the Billing and Cost Management pages\. 
 
-1. Choose **Update**\.
+1. You should see "IAM user/role access to billing information is activated.".
 
  You can now use IAM policies to control which pages a user can access\.
 
